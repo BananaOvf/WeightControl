@@ -1,0 +1,8 @@
+D:\Программирование\c#\WeightControl\WeightControl\bin\Debug\WeightControl.exe.config
+D:\Программирование\c#\WeightControl\WeightControl\bin\Debug\WeightControl.exe
+D:\Программирование\c#\WeightControl\WeightControl\bin\Debug\WeightControl.pdb
+D:\Программирование\c#\WeightControl\WeightControl\obj\Debug\WeightControl.csproj.AssemblyReference.cache
+D:\Программирование\c#\WeightControl\WeightControl\obj\Debug\WeightControl.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\c#\WeightControl\WeightControl\obj\Debug\WeightControl.csproj.CoreCompileInputs.cache
+D:\Программирование\c#\WeightControl\WeightControl\obj\Debug\WeightControl.exe
+D:\Программирование\c#\WeightControl\WeightControl\obj\Debug\WeightControl.pdb
